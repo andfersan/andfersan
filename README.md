@@ -1,6 +1,6 @@
 ### olá! eu sou Anderson Santana ✌️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/anderson-santana-89b781213)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santana-89b781213/)
 
 ![Andfersan](https://github-readme-stats.vercel.app/api?username=andfersan&show_icons=true&theme=dracula)
 
