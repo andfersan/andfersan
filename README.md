@@ -1,16 +1,16 @@
-### Hi there 👋
+### olá! eu sou Anderson Santana ✌️
 
-<!--
-**andfersan/andfersan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/anderson-santana-89b781213)
 
-Here are some ideas to get you started:
+![Andfersan](https://github-readme-stats.vercel.app/api?username=andfersan&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tecnologias de uso do meu dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</div><br/>
+Aprendendo a evoluir como ser humano ✌️<br/>
+Tecnologia, impossível não se apaixonar ✌️
