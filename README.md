@@ -1,4 +1,5 @@
-### olá! eu sou Anderson Santana ✌️
+### olá! eu sou Anderson Santana sou desenvolvedor junior .NET. ✌️
+### O temor do Senhor é o princípio da sabedoria, e a humildade precede a honra.Proverbio 15-33 ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-santana-89b781213/)
 
